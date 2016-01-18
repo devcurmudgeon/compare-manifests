@@ -1,0 +1,1174 @@
+		acl 2.2.52
+		acl-dev 2.2.52
+		alsa-conf 1.0.28
+		alsa-conf-base 1.0.28
+		alsa-lib 1.0.28
+		alsa-lib-dev 1.0.28
+		alsa-utils 1.0.28
+		alsa-utils-aconnect 1.0.28
+		alsa-utils-alsactl 1.0.28
+		alsa-utils-alsaloop 1.0.28
+		alsa-utils-alsamixer 1.0.28
+		alsa-utils-alsaucm 1.0.28
+		alsa-utils-amixer 1.0.28
+		alsa-utils-aplay 1.0.28
+		alsa-utils-aseqdump 1.0.28
+		alsa-utils-aseqnet 1.0.28
+		alsa-utils-iecset 1.0.28
+		alsa-utils-midi 1.0.28
+		alsa-utils-speakertest 1.0.28
+		attr 2.4.47
+		attr-dev 2.4.47
+		avahi-daemon 0.6.31
+		avahi-dev 0.6.31
+		base-passwd 3.5.29
+		base-passwd-dev 3.5.29
+		bash 4.3
+		bash-dev 4.3
+		bison 2.7.1
+		bison-dev 2.7.1
+		bluez5 5.22
+		bluez5-dev 5.22
+		busybox 1.22.1
+		busybox-syslog 1.22.1
+		busybox-udhcpc 1.22.1
+		bzip2 1.0.6
+		bzip2-dev 1.0.6
+		coreutils 8.22
+		coreutils-dev 8.22
+		cracklib 2.9.1
+		cracklib-dev 2.9.1
+		cryptodev-linux 1.6
+		cryptodev-linux-dev 1.6
+		db 6.0.30
+		db-dev 6.0.30
+		dbus-1 1.8.2
+		dbus-dev 1.8.2
+		e2fsprogs-e2fsck 1.42.9
+		file 5.18
+		flac 1.3.0
+		flac-dev 1.3.0
+		flex 2.5.39
+		flex-dev 2.5.39
+		fontconfig-utils 2.11.1
+		gawk 4.1.1
+		gawk-dev 4.1.1
+		gconf 3.2.6
+		gconf-dev 3.2.6
+		gettext 0.18.3.2
+		gettext-dev 0.18.3.2
+		glib-networking 2.38.0
+		gstreamer1.0 1.4.1
+		gstreamer1.0-meta-base all 1.0
+		gstreamer1.0-plugins-base 1.4.1
+		gstreamer1.0-plugins-base-alsa 1.4.1
+		gstreamer1.0-plugins-base-audioconvert 1.4.1
+		gstreamer1.0-plugins-base-audioresample 1.4.1
+		gstreamer1.0-plugins-base-gio 1.4.1
+		gstreamer1.0-plugins-base-playback 1.4.1
+		gstreamer1.0-plugins-base-typefindfunctions 1.4.1
+		gstreamer1.0-plugins-base-videoconvert 1.4.1
+		gstreamer1.0-plugins-base-videoscale 1.4.1
+		gstreamer1.0-plugins-base-volume 1.4.1
+		gstreamer1.0-plugins-good 1.4.1
+		gstreamer1.0-plugins-good-autodetect 1.4.1
+		gstreamer1.0-plugins-good-souphttpsrc 1.4.1
+		icu 53.1
+		icu-dev 53.1
+		json-c 0.11
+		json-c-dev 0.11
+		kmod 18+git0+ae58de0fcb
+		kmod-dev 18+git0+ae58de0fcb
+		libacl-dev 2.2.52
+		libacl1 2.2.52
+		libasound2 1.0.28
+		libatomics-ops 7.2
+		libatomics-ops-dev 7.2
+		libattr-dev 2.4.47
+		libattr1 2.4.47
+		libavahi-client3 0.6.31
+		libavahi-common3 0.6.31
+		libavahi-core7 0.6.31
+		libavahi-glib1 0.6.31
+		libavahi-gobject0 0.6.31
+		libbeecrypt7 4.2.1
+		libblkid1 2.24.2
+		libbz2-0 1.0.6
+		libbz2-dev 1.0.6
+		libc6 2.20
+		libc6-dev 2.20
+		libc6-extra-nss 2.20
+		libc6-thread-db 2.20
+		libcairo2 1.12.16
+		libcap-dev 2.22
+		libcap2 2.22
+		libcgroup 0.41
+		libcgroup-dev 0.41
+		libcheck 0.9.14
+		libcheck-dev 0.9.14
+		libcidn1 2.20
+		libcom-err2 1.42.9
+		libdaemon-dev 0.14
+		libdaemon0 0.14
+		libdbus-1-3 1.8.2
+		libdbus-glib-1-2 0.100.2
+		libdbus-glib-1-dev 0.100.2
+		libe2p2 1.42.9
+		libegl-gallium 10.1.3
+		libelf1 0.148
+		liberation-fonts 1.04
+		libexpat-dev 2.1.0
+		libexpat1 2.1.0
+		libext2fs2 1.42.9
+		libffi-dev 3.1
+		libffi6 3.1
+		libflac++6 1.3.0
+		libflac8 1.3.0
+		libfontconfig1 2.11.1
+		libform5 5.9
+		libformw5 5.9
+		libfreetype6 2.5.3
+		libgcc-s-dev 4.9.1
+		libgcc1 4.9.1
+		libgcrypt 1.6.1
+		libgcrypt-dev 1.6.1
+		libgdbm-compat4 1.11
+		libgdbm-dev 1.11
+		libgdbm4 1.11
+		libgettextlib 0.18.3.2
+		libgettextsrc 0.18.3.2
+		libglapi0 10.1.3
+		libglib-2.0-0 2.40.0
+		libglib-2.0-dev 2.40.0
+		libgmp-dev 6.0.0
+		libgmp10 6.0.0
+		libgmpxx4 6.0.0
+		libgnutls28 3.3.5
+		libgpg-error-dev 1.12
+		libgpg-error0 1.12
+		libgstaudio-1.0-0 1.4.1
+		libgstpbutils-1.0-0 1.4.1
+		libgsttag-1.0-0 1.4.1
+		libgstvideo-1.0-0 1.4.1
+		libgudev-1.0-0 216+git0+5d0ae62c66
+		libharfbuzz0 0.9.35
+		libical 1.0.0
+		libical-dev 1.0.0
+		libicudata53 53.1
+		libicui18n53 53.1
+		libicuio53 53.1
+		libicule53 53.1
+		libiculx53 53.1
+		libicutu53 53.1
+		libicuuc53 53.1
+		libjpeg-dev 8d
+		libjpeg8 8d
+		libkmod2 18+git0+ae58de0fcb
+		libllvm3.3-llvm-3.3 3.3
+		libllvm3.3-lto 3.3
+		libllvm3.3-profile-rt 3.3
+		libltdl-dev 2.4.2
+		libltdl7 2.4.2
+		liblzma-dev 5.1.3alpha
+		liblzma5 5.1.3alpha
+		libmenu5 5.9
+		libmenuw5 5.9
+		libmount1 2.24.2
+		libncurses5 5.9
+		libncursesw5 5.9
+		libnss-mdns 0.10
+		libogg-dev 1.3.2
+		libogg0 1.3.2
+		liboil 0.3.17
+		liboil-dev 0.3.17
+		liborc-0.4-0 0.4.18
+		liborc-test-0.4-0 0.4.18
+		libossp-uuid16 1.6.2
+		libpam 1.1.6
+		libpam-dev 1.1.6
+		libpam-runtime 1.1.6
+		libpanel5 5.9
+		libpanelw5 5.9
+		libpciaccess-dev 0.13.2
+		libpciaccess0 0.13.2
+		libpcre1 8.35
+		libpcreposix0 8.35
+		libperl5 5.20.0
+		libpixman-1-0 0.32.6
+		libpng16-16 1.6.13
+		libpng16-dev 1.6.13
+		libpopt0 1.16
+		libpthread-stubs-dev 0.3
+		libpulse-mainloop-glib0 5.0
+		libpulse-simple0 5.0
+		libpulse0 5.0
+		libpulsecommon 5.0
+		libpyglib-2.0-python0 2.28.3
+		libpython2.7-1.0 2.7.3
+		libreadline-dev 6.3
+		libreadline6 6.3
+		libsamplerate0 0.1.8
+		libsamplerate0-dev 0.1.8
+		libsndfile-dev 1.0.25
+		libsndfile1 1.0.25
+		libsoup-2.4 2.46.0
+		libsqlite3-0 3.8.6.0
+		libsqlite3-dev 3.8.6.0
+		libstdc++-dev 4.9.1
+		libstdc++6 4.9.1
+		libsystemd0 216+git0+5d0ae62c66
+		libtic5 5.9
+		libticw5 5.9
+		libtinfo5 5.9
+		libtool 2.4.2
+		libtool-dev 2.4.2
+		libudev1 216+git0+5d0ae62c66
+		libusb-1.0-0 1.0.19
+		libuuid1 2.24.2
+		libwayland-egl1 10.1.3
+		libxkbcommon0 0.4.3
+		libxml2 2.9.1
+		libxml2-dev 2.9.1
+		libz-dev 1.2.8
+		libz1 1.2.8
+		llvm3.3 3.3
+		m4 1.4.17
+		m4-dev 1.4.17
+		mtdev 1.1.5
+		ncurses 5.9
+		ncurses-dev 5.9
+		ncurses-terminfo-base 5.9
+		netbase 5.2
+		nettle 2.7.1
+		ofono 1.15
+		os-release all 1.0
+		pam-plugin-deny 1.1.6
+		pam-plugin-env 1.1.6
+		pam-plugin-faildelay 1.1.6
+		pam-plugin-group 1.1.6
+		pam-plugin-lastlog 1.1.6
+		pam-plugin-limits 1.1.6
+		pam-plugin-mail 1.1.6
+		pam-plugin-motd 1.1.6
+		pam-plugin-nologin 1.1.6
+		pam-plugin-permit 1.1.6
+		pam-plugin-rootok 1.1.6
+		pam-plugin-securetty 1.1.6
+		pam-plugin-shells 1.1.6
+		pam-plugin-unix 1.1.6
+		pam-plugin-warn 1.1.6
+		pango 1.36.6
+		pango-module-basic-fc 1.36.6
+		perl 5.20.0
+		procps 3.2.8
+		pulseaudio 5.0
+		pulseaudio-dev 5.0
+		python-codecs 2.7.3
+		python-compression 2.7.3
+		python-core 2.7.3
+		python-crypt 2.7.3
+		python-curses 2.7.3
+		python-datetime 2.7.3
+		python-dbus 1.2.0
+		python-dbus-dev 1.2.0
+		python-dev 2.7.3
+		python-elementtree 2.7.3
+		python-fcntl 2.7.3
+		python-io 2.7.3
+		python-json 2.7.3
+		python-lang 2.7.3
+		python-logging 2.7.3
+		python-math 2.7.3
+		python-mime 2.7.3
+		python-netclient 2.7.3
+		python-pickle 2.7.3
+		python-pprint 2.7.3
+		python-pygobject 2.28.3
+		python-pygobject-dev 2.28.3
+		python-re 2.7.3
+		python-readline 2.7.3
+		python-resource 2.7.3
+		python-rpm 5.4.14
+		python-shell 2.7.3
+		python-smartpm 1.4.1
+		python-smartpm-backend-rpm 1.4.1
+		python-stringold 2.7.3
+		python-textutils 2.7.3
+		python-threading 2.7.3
+		python-unixadmin 2.7.3
+		python-xml 2.7.3
+		python-zlib 2.7.3
+		rpm 5.4.14
+		rpm-libs 5.4.14
+		run-postinsts all 1.0
+		sbc 1.2
+		sbc-dev 1.2
+		shadow 4.2.1
+		shadow-dev 4.2.1
+		smartpm 1.4.1
+		speex 1.2rc1
+		speex-dev 1.2rc1
+		systemd 216+git0+5d0ae62c66
+		systemd-compat-units all 1.0
+		systemd-dev 216+git0+5d0ae62c66
+		udev 216+git0+5d0ae62c66
+		udev-hwdb 216+git0+5d0ae62c66
+		update-alternatives-opkg 0.1.8+git0+eae0d8fa44
+		update-rc.d all 0.7
+		update-rc.d-dev all 0.7
+		util-linux 2.24.2
+		util-linux-agetty 2.24.2
+		util-linux-cfdisk 2.24.2
+		util-linux-dev 2.24.2
+		util-linux-fdisk 2.24.2
+		util-linux-fsck 2.24.2
+		util-linux-losetup 2.24.2
+		util-linux-mkfs 2.24.2
+		util-linux-mount 2.24.2
+		util-linux-readprofile 2.24.2
+		util-linux-sfdisk 2.24.2
+		util-linux-swaponoff 2.24.2
+		util-linux-umount 2.24.2
+		util-macros-dev 1.19.0
+		volatile-binds all 1.0
+		volatile-binds-dev all 1.0
+		wayland 1.5.0
+		wayland-dev 1.5.0
+		xkeyboard-config 2.12
+		xz 5.1.3alpha
+		xz-dev 5.1.3alpha
+	alsa-state koelsch 0.2.0
+	alsa-states koelsch 0.2.0
+	audiomanager 6.1
+	automotive-message-broker 0.12+git0+ac3fe53327
+	base-files koelsch 3.0.14
+	base-files-dev koelsch 3.0.14
+	bluez5-obex 5.22
+	boost 1.56.0
+	boost-serialization 1.56.0
+	boost-test 1.56.0
+	browser-poc git
+	ca-certificates all 20140325
+	connman 1.25
+	curl 7.37.1
+	dbus-c++ 0.9.0+gitr0+1f6f3e6e96
+	dlt-daemon 2.11.1
+	dlt-daemon-systemd 2.11.1
+	ecryptfs-utils 104
+	gdp-audiomanager-monitor 1.0
+	gdp-hmi-background 1.0
+	gdp-hmi-launcher 1.0
+	gdp-hmi-launcher2 1.0
+	gdp-hmi-mouse-test 1.0
+	gdp-hmi-panel 1.0
+	genivi-browser-test-hmi-precompiled 1.0
+	genivi-demo-platform-hmi 0.4
+	gles-kernel-module koelsch 1.0
+	gles-kernel-module-dev koelsch 1.0
+	gles-user-module koelsch 1.0
+	gles-user-module-dev koelsch 1.0
+	gps-utils 3.10
+	gpsd 3.10
+	gpsd-conf 3.10
+	gpsd-dev 3.10
+	gpsd-gpsctl 3.10
+	gpsd-udev 3.10
+	gstreamer 0.10.36
+	iptables 1.4.21
+	kernel-3.10.31-ltsi koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-image-3.10.31-ltsi koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-module-ansi-cprng koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-module-blocklayoutdriver koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-module-configfs koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-module-g-ether koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-module-lcd koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-module-libcomposite koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-module-nfs-layout-nfsv41-files koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-module-rng-core koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-module-tcp-bic koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-module-tcp-htcp koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-module-tcp-westwood koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	kernel-modules koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	keyutils 1.5.8
+	libarchive13 3.1.2
+	libasound-module-conf-pulse 1.0.28
+	libasound-module-ctl-pulse 1.0.28
+	libasound-module-pcm-pulse 1.0.28
+	libbluetooth-plugins-service 5.22
+	libboost-date-time1.56.0 1.56.0
+	libboost-filesystem1.56.0 1.56.0
+	libboost-graph1.56.0 1.56.0
+	libboost-iostreams1.56.0 1.56.0
+	libboost-program-options1.56.0 1.56.0
+	libboost-regex1.56.0 1.56.0
+	libboost-signals1.56.0 1.56.0
+	libboost-system1.56.0 1.56.0
+	libboost-thread1.56.0 1.56.0
+	libcommonapi-dbus3 2.1.6+p1
+	libcommonapi3 2.1.6+p1
+	libcrypto1.0.0 1.0.1j
+	libcurl5 7.37.1
+	libdrm-dev 2.4.45+git4d8674077c006f68ec4771530891df8231da839d
+	libdrm-freedreno1 2.4.45+git4d8674077c006f68ec4771530891df8231da839d
+	libdrm-nouveau2 2.4.45+git4d8674077c006f68ec4771530891df8231da839d
+	libdrm-omap1 2.4.45+git4d8674077c006f68ec4771530891df8231da839d
+	libdrm-radeon1 2.4.45+git4d8674077c006f68ec4771530891df8231da839d
+	libdrm2 2.4.45+git4d8674077c006f68ec4771530891df8231da839d
+	libegl-dev 1.0
+	libegl1 1.0
+	libfuse2 2.9.3
+	libgbm-dev 1.0
+	libgbm1 1.0
+	libgps21 3.10
+	libgpsd22 3.10
+	libgstapp-0.10-0 0.10.36
+	libgstinterfaces-0.10-0 0.10.36
+	libgstpbutils-0.10-0 0.10.36
+	libgstvideo-0.10-0 0.10.36
+	libitzam 6.0.4
+	libkms1 2.4.45+git4d8674077c006f68ec4771530891df8231da839d
+	libmediactl0 0.0.1+git0+114c1b274e
+	libnl-3-200 3.2.25
+	libnl-3-cli 3.2.25
+	libnl-3-genl 3.2.25
+	libnl-nf-3-200 3.2.25
+	libnl-route-3-200 3.2.25
+	libpers-common0 7.0
+	libpersistence-client-library7 7.0+git0+441b3ce710
+	libpulsecore 5.0
+	libqt5declarative-plugins 5.3.2
+	libqt5declarative-tools 5.3.2
+	libqt5declarative5 5.3.2
+	libqt5sensors5 5.3.2
+	libqt5xmlpatterns5 5.3.2
+	libssl1.0.0 1.0.1j
+	libusb-1.0-dev 1.0.19
+	libv4l2subdev0 0.0.1+git0+114c1b274e
+	libwayland-kms-dev 1.4.0+gitd0c6d621f610d432abeffe3f4a624760bca61d0d
+	libwayland-kms0 1.4.0+gitd0c6d621f610d432abeffe3f4a624760bca61d0d
+	libwrap0 7.6
+	libxslt 1.1.28
+	linux-libc-headers-dev 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+	media-ctl 0.0.1+git0+114c1b274e
+	navigation-application 1
+	navigation-service 1
+	navit 0.2.0+svnr5532
+	navit-config 0.2.0+svnr5532
+	navit-dbus 0.2.0+svnr5532
+	navit-graphics-gtk 0.2.0+svnr5532
+	navit-gui-internal 0.2.0+svnr5532
+	navit-icons 0.2.0+svnr5532
+	navit-speech-cmdline 0.2.0+svnr5532
+	neard 0.14
+	node-health-monitor 1.3.3
+	node-startup-controller 1.0.2
+	node-state-manager 2.0.0
+	openssh 6.6p1
+	openssh-keygen 6.6p1
+	openssh-scp 6.6p1
+	openssh-ssh 6.6p1
+	openssh-sshd 6.6p1
+	openssl 1.0.1j
+	openssl-conf 1.0.1j
+	openssl-dev 1.0.1j
+	packagegroup-abstract-component-p1 all 1.0
+	packagegroup-abstract-component-p2 all 1.0
+	packagegroup-core-boot-genivi koelsch 1.0
+	packagegroup-core-ssh-openssh all 1.0
+	packagegroup-gdp-am-demo all 1.0
+	packagegroup-gdp-browser all 1.0
+	packagegroup-gdp-fsa all 1.0
+	packagegroup-gdp-gps all 1.0
+	packagegroup-gdp-hmi all 1.0
+	packagegroup-gdp-qt5 all 1.0
+	packagegroup-placeholder-component-p1 all 1.0
+	packagegroup-specific-component-p1 all 1.0
+	packagegroup-specific-component-p2 all 1.0
+	pam-plugin-keyinit 1.1.6
+	pam-plugin-loginuid 1.1.6
+	persistence-administrator 7.0+git0+3a6cc3228b
+	positioning-enhpos git
+	positioning-gnss git
+	positioning-sns git
+	pps-tools 0.0.0+git0+0deb9c7e13
+	pps-tools-dev 0.0.0+git0+0deb9c7e13
+	pulseaudio-lib-alsa-util 5.0
+	pulseaudio-lib-protocol-native 5.0
+	pulseaudio-module-alsa-card 5.0
+	pulseaudio-module-alsa-sink 5.0
+	pulseaudio-module-alsa-source 5.0
+	pulseaudio-module-always-sink 5.0
+	pulseaudio-module-augment-properties 5.0
+	pulseaudio-module-card-restore 5.0
+	pulseaudio-module-default-device-restore 5.0
+	pulseaudio-module-detect 5.0
+	pulseaudio-module-device-restore 5.0
+	pulseaudio-module-filter-apply 5.0
+	pulseaudio-module-filter-heuristics 5.0
+	pulseaudio-module-intended-roles 5.0
+	pulseaudio-module-loopback 5.0
+	pulseaudio-module-native-protocol-tcp 5.0
+	pulseaudio-module-native-protocol-unix 5.0
+	pulseaudio-module-null-sink 5.0
+	pulseaudio-module-pipe-sink 5.0
+	pulseaudio-module-position-event-sounds 5.0
+	pulseaudio-module-remap-sink 5.0
+	pulseaudio-module-rescue-streams 5.0
+	pulseaudio-module-role-cork 5.0
+	pulseaudio-module-stream-restore 5.0
+	pulseaudio-module-suspend-on-idle 5.0
+	pulseaudio-module-switch-on-port-available 5.0
+	pulseaudio-module-udev-detect 5.0
+	pulseaudio-server 5.0
+	python-ctypes 2.7.3
+	python-distutils 2.7.3
+	python-pygps 3.10
+	python-pyqt 5.3.1
+	python-sip 4.16.2
+	python-uinput git
+	qml-example 1.0
+	qt3d 5.3.99+5.4.0+beta1+git0+8a9723d742
+	qtbase 5.3.2
+	qtbase-dev 5.3.2
+	qtbase-fonts 5.3.2
+	qtbase-fonts-pfa 5.3.2
+	qtbase-fonts-pfb 5.3.2
+	qtbase-fonts-qpf 5.3.2
+	qtbase-fonts-ttf-dejavu 5.3.2
+	qtbase-fonts-ttf-vera 5.3.2
+	qtbase-plugins 5.3.2
+	qtbase-staticdev 5.3.2
+	qtbase-tools 5.3.2
+	qtdeclarative 5.3.2
+	qtdeclarative-plugins 5.3.2
+	qtdeclarative-qmlplugins 5.3.2
+	qtdeclarative-tools 5.3.2
+	qtgraphicaleffects-qmlplugins 5.3.2
+	qtlocation 5.3.2
+	qtquickcontrols-qmlplugins 5.3.2
+	qtscript 5.3.2
+	qtwayland 5.3.2
+	qtwayland-examples 5.3.2
+	qtwayland-plugins 5.3.2
+	qtwayland-tools 5.3.2
+	qtwebkit 5.3.2
+	qtwebkit-qmlplugins 5.3.2
+	quota 4.01
+	shadow-securetty koelsch 4.2.1
+	shadow-securetty-dev koelsch 4.2.1
+	sqlite3 3.8.6.0
+	systemd-serialgetty koelsch 1.0
+	wayland-ivi-extension 1.3.0
+	weston koelsch 1.5.0
+	weston-examples koelsch 1.5.0
+	wpa-supplicant 2.2
+	wpa-supplicant-cli 2.2
+	wpa-supplicant-passphrase 2.2
+	xuser-account all 0.1
+CES2016-demo 1.0+albacore_1.0
+alsa-states 0.2.0
+ambdbusaccess 0.1
+automotive-message-broker 0.14+git0+58569fac42
+base-files 3.0.14
+base-files-dev 3.0.14
+can-utils 0.0+gitr0+67a2bdcd33
+climatecontrolplugin 0.1
+dhcp-client 4.3.0
+dri2proto-dev 2.8
+dropbear 2014.63
+gdk-pixbuf 2.30.8
+gstreamer1.0-plugins-base-adder 1.4.1
+gstreamer1.0-plugins-base-app 1.4.1
+gstreamer1.0-plugins-base-apps 1.4.1
+gstreamer1.0-plugins-base-audiorate 1.4.1
+gstreamer1.0-plugins-base-audiotestsrc 1.4.1
+gstreamer1.0-plugins-base-encodebin 1.4.1
+gstreamer1.0-plugins-base-ivorbisdec 1.4.1
+gstreamer1.0-plugins-base-meta 1.4.1
+gstreamer1.0-plugins-base-ogg 1.4.1
+gstreamer1.0-plugins-base-subparse 1.4.1
+gstreamer1.0-plugins-base-tcp 1.4.1
+gstreamer1.0-plugins-base-theora 1.4.1
+gstreamer1.0-plugins-base-videorate 1.4.1
+gstreamer1.0-plugins-base-videotestsrc 1.4.1
+gstreamer1.0-plugins-base-vorbis 1.4.1
+gstreamer1.0-plugins-good-alaw 1.4.1
+gstreamer1.0-plugins-good-alpha 1.4.1
+gstreamer1.0-plugins-good-alphacolor 1.4.1
+gstreamer1.0-plugins-good-apetag 1.4.1
+gstreamer1.0-plugins-good-audiofx 1.4.1
+gstreamer1.0-plugins-good-audioparsers 1.4.1
+gstreamer1.0-plugins-good-auparse 1.4.1
+gstreamer1.0-plugins-good-avi 1.4.1
+gstreamer1.0-plugins-good-cairo 1.4.1
+gstreamer1.0-plugins-good-cutter 1.4.1
+gstreamer1.0-plugins-good-debug 1.4.1
+gstreamer1.0-plugins-good-deinterlace 1.4.1
+gstreamer1.0-plugins-good-dtmf 1.4.1
+gstreamer1.0-plugins-good-effectv 1.4.1
+gstreamer1.0-plugins-good-equalizer 1.4.1
+gstreamer1.0-plugins-good-flac 1.4.1
+gstreamer1.0-plugins-good-flv 1.4.1
+gstreamer1.0-plugins-good-flxdec 1.4.1
+gstreamer1.0-plugins-good-gdkpixbuf 1.4.1
+gstreamer1.0-plugins-good-goom 1.4.1
+gstreamer1.0-plugins-good-goom2k1 1.4.1
+gstreamer1.0-plugins-good-icydemux 1.4.1
+gstreamer1.0-plugins-good-id3demux 1.4.1
+gstreamer1.0-plugins-good-imagefreeze 1.4.1
+gstreamer1.0-plugins-good-interleave 1.4.1
+gstreamer1.0-plugins-good-isomp4 1.4.1
+gstreamer1.0-plugins-good-jpeg 1.4.1
+gstreamer1.0-plugins-good-level 1.4.1
+gstreamer1.0-plugins-good-matroska 1.4.1
+gstreamer1.0-plugins-good-meta 1.4.1
+gstreamer1.0-plugins-good-mulaw 1.4.1
+gstreamer1.0-plugins-good-multifile 1.4.1
+gstreamer1.0-plugins-good-multipart 1.4.1
+gstreamer1.0-plugins-good-navigationtest 1.4.1
+gstreamer1.0-plugins-good-ossaudio 1.4.1
+gstreamer1.0-plugins-good-png 1.4.1
+gstreamer1.0-plugins-good-pulse 1.4.1
+gstreamer1.0-plugins-good-replaygain 1.4.1
+gstreamer1.0-plugins-good-rtp 1.4.1
+gstreamer1.0-plugins-good-rtpmanager 1.4.1
+gstreamer1.0-plugins-good-rtsp 1.4.1
+gstreamer1.0-plugins-good-shapewipe 1.4.1
+gstreamer1.0-plugins-good-smpte 1.4.1
+gstreamer1.0-plugins-good-spectrum 1.4.1
+gstreamer1.0-plugins-good-speex 1.4.1
+gstreamer1.0-plugins-good-taglib 1.4.1
+gstreamer1.0-plugins-good-udp 1.4.1
+gstreamer1.0-plugins-good-video4linux2 1.4.1
+gstreamer1.0-plugins-good-videobox 1.4.1
+gstreamer1.0-plugins-good-videocrop 1.4.1
+gstreamer1.0-plugins-good-videofilter 1.4.1
+gstreamer1.0-plugins-good-videomixer 1.4.1
+gstreamer1.0-plugins-good-wavenc 1.4.1
+gstreamer1.0-plugins-good-wavparse 1.4.1
+gstreamer1.0-plugins-good-y4menc 1.4.1
+gupnp-dlna 0.9.4
+hvacplugin 0.1
+iproute2 3.16.0
+kernel-3.14.29ltsi-yocto-standard 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-8021q 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-8139cp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-8139too 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ac97-bus 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-act-mirred 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-af-key 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ah4 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-amd-rng 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ansi-cprng 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-anubis 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-arc4 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-arp-tables 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-arpt-mangle 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-arptable-filter 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ath 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ath5k 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ath9k 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ath9k-common 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ath9k-hw 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-atl1e 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-atl2 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-bcma 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-binfmt-misc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-blowfish-common 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-blowfish-generic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-bonding 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-brcmfmac 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-brcmsmac 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-brcmutil 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-bridge 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-bsd-comp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-camellia-generic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-cast-common 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-cast5-generic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-cast6-generic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ccm 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-cfg80211 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-cifs 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-cmac 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-configfs 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-cordic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-cpia2 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-crc-ccitt 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-crc8 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-crypto-null 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-cryptoloop 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ctr 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-cuse 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-deflate 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-dummy 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-802-3 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-among 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-arp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-arpreply 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-dnat 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-ip 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-ip6 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-limit 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-log 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-mark 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-mark-m 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-nflog 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-pkttype 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-redirect 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-snat 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-stp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-ulog 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebt-vlan 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebtable-broute 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebtable-filter 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebtable-nat 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ebtables 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ecb 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-eeprom-93cx6 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-efivarfs 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-esp4 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-floppy 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-fuse 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-benq 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-conex 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-cpia1 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-etoms 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-finepix 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-gl860 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-jeilinj 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-jl2005bcd 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-kinect 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-konica 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-m5602 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-main 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-mars 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-mr97310a 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-nw80x 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-ov519 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-ov534 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-ov534-9 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-pac207 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-pac7302 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-pac7311 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-se401 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-sn9c2028 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-sn9c20x 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-sonixb 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-sonixj 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-spca1528 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-spca500 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-spca501 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-spca505 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-spca506 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-spca508 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-spca561 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-sq905 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-sq905c 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-sq930x 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-stk014 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-stv0680 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-stv06xx 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-sunplus 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-t613 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-topro 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-tv8532 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-vc032x 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-vicam 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-xirlink-cit 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-gspca-zc3xx 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-i2c-mux 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-i2o-block 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-i2o-config 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-i2o-core 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-i2o-proc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-i2o-scsi 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-intel-rng 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-iosf-mbi 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ip-tables 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ip6-tables 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ip6-tunnel 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ip6t-eui64 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ip6t-frag 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ip6t-hbh 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ip6t-ipv6header 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ip6t-rt 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ip6table-filter 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ip6table-mangle 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ip6table-raw 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ipcomp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ipcomp6 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ipip 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ipt-ah 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ipt-clusterip 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ipt-ecn 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ipt-masquerade 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ipt-reject 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ipt-ulog 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-iptable-filter 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-iptable-mangle 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-iptable-nat 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-iptable-raw 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-khazad 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-lcd 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-libcrc32c 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-llc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-lp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-mac80211 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-md4 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-media 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-michael-mic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-minix 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nbd 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-amanda 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-broadcast 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-ftp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-h323 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-ipv4 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-irc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-netbios-ns 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-netlink 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-pptp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-proto-gre 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-proto-sctp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-proto-udplite 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-sane 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-sip 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-conntrack-tftp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-defrag-ipv4 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat-amanda 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat-ftp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat-h323 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat-ipv4 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat-irc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat-pptp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat-proto-gre 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat-proto-sctp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat-proto-udplite 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat-sip 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nf-nat-tftp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nfnetlink 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nfnetlink-log 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nfnetlink-queue 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nfsd 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-ascii 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp1250 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp1251 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp1255 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp737 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp775 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp850 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp852 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp855 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp857 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp860 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp861 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp862 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp863 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp864 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp865 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp866 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp869 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp874 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp932 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp936 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp949 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-cp950 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-euc-jp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-iso8859-13 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-iso8859-14 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-iso8859-15 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-iso8859-2 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-iso8859-3 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-iso8859-4 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-iso8859-5 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-iso8859-6 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-iso8859-7 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-iso8859-9 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-koi8-r 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-koi8-ru 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-koi8-u 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-nls-utf8 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-p8022 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-parport 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-parport-pc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-pktgen 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ppp-async 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ppp-deflate 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ppp-generic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ppp-synctty 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-pppoe 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-pppox 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-psnap 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-pwc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-r8169 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-reiserfs 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-rng-core 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-romfs 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-rt2800lib 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-rt2800mmio 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-rt2800pci 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-rt2x00lib 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-rt2x00mmio 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-rt2x00pci 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-s2255drv 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-cbq 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-codel 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-dsmark 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-gred 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-hfsc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-htb 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-ingress 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-netem 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-prio 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-red 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-sfq 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-tbf 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sch-teql 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sctp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-seqiv 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-serpent-generic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sha256-generic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-sha512-generic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-slhc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-slip 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-ac97-codec 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-ens1370 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec-analog 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec-ca0110 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec-ca0132 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec-cirrus 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec-cmedia 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec-conexant 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec-generic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec-hdmi 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec-idt 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec-realtek 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-codec-si3054 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-hda-intel 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-intel8x0 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-rawmidi 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-snd-seq-midi 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-softdog 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-stkwebcam 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-stp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-tcrypt 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-tea 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-tipc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ts-bm 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ts-fsm 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-ts-kmp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-tun 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-tunnel6 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-twofish-common 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-twofish-generic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-uinput 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-usbtouchscreen 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-uvcvideo 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-uvesafb 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-v4l2-common 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-v4l2-dv-timings 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-via-rng 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-videobuf-core 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-videobuf-vmalloc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-videobuf2-core 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-videobuf2-memops 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-videobuf2-vmalloc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-videodev 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-wp512 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-x-tables 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-x86-pkg-temp-thermal 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xcbc 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xfrm-ipcomp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xfrm-user 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xfrm4-tunnel 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xfrm6-tunnel 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-classify 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-comment 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-connbytes 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-connlimit 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-connmark 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-conntrack 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-ct 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-dccp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-dscp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-ecn 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-esp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-hashlimit 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-helper 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-hl 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-length 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-limit 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-mac 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-mark 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-multiport 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-nat 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-netmap 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-nflog 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-nfqueue 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-pkttype 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-policy 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-quota 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-realm 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-redirect 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-sctp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-state 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-statistic 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-string 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-tcpmss 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-tcpudp 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-trace 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-module-xt-u32 3.14.29+git0+6eddbf4787_21ba402e0a
+kernel-modules 3.14.29+git0+6eddbf4787_21ba402e0a
+libcairo-gobject2 1.12.16
+libcrypto1.0.0 1.0.1p
+libdrm-dev 2.4.54
+libdrm-freedreno1 2.4.54
+libdrm-intel1 2.4.54
+libdrm-nouveau2 2.4.54
+libdrm-omap1 2.4.54
+libdrm-radeon1 2.4.54
+libdrm2 2.4.54
+libegl-mesa 10.1.3
+libegl-mesa-dev 10.1.3
+libgbm-dev 10.1.3
+libgbm1 10.1.3
+libgee-0.8-2 0.16.1
+libglapi-dev 10.1.3
+libgles2-mesa 10.1.3
+libgles2-mesa-dev 10.1.3
+libgssdp-1.0-3 0.14.8
+libgstallocators-1.0-0 1.4.1
+libgstapp-1.0-0 1.4.1
+libgstfft-1.0-0 1.4.1
+libgstphotography-1.0-0 1.4.1
+libgstriff-1.0-0 1.4.1
+libgstrtp-1.0-0 1.4.1
+libgstrtsp-1.0-0 1.4.1
+libgstsdp-1.0-0 1.4.1
+libgupnp-1.0-4 0.20.12
+libgupnp-av-1.0-2 0.12.6
+libkms1 2.4.54
+libmediaart-2.0-0 1.9.0
+libqt5declarative-plugins 5.5.1+git0+f079636a3e
+libqt5declarative-qmlplugins 5.5.1+git0+f079636a3e
+libqt5declarative-tools 5.5.1+git0+f079636a3e
+libqt5declarative5 5.5.1+git0+f079636a3e
+libqt5svg-plugins 5.5.1+git0+b5d689eaaf
+libqt5svg5 5.5.1+git0+b5d689eaaf
+libqt5xmlpatterns5 5.5.1+git0+3338de7bbe
+libssl1.0.0 1.0.1p
+libtag1 1.9.1
+libtheora 1.1.1
+libvorbis 1.3.4
+libvorbisidec1 20120314
+lightmediascanner 0.5.1+git0+adfddb3486
+lightmediascanner-meta 0.5.1+git0+adfddb3486
+lightmediascanner-plugin-audio-dummy 0.5.1+git0+adfddb3486
+lightmediascanner-plugin-dummy 0.5.1+git0+adfddb3486
+lightmediascanner-plugin-flac 0.5.1+git0+adfddb3486
+lightmediascanner-plugin-jpeg 0.5.1+git0+adfddb3486
+lightmediascanner-plugin-m3u 0.5.1+git0+adfddb3486
+lightmediascanner-plugin-ogg 0.5.1+git0+adfddb3486
+lightmediascanner-plugin-pls 0.5.1+git0+adfddb3486
+lightmediascanner-plugin-png 0.5.1+git0+adfddb3486
+lightmediascanner-plugin-video-dummy 0.5.1+git0+adfddb3486
+lightmediascanner-plugin-wave 0.5.1+git0+adfddb3486
+linux-libc-headers-dev 3.16
+llvm-common 1.0
+llvm-common-dev 1.0
+llvm3.3-dev 3.3
+mc 4.8.12
+ncurses-terminfo 5.9
+openssl 1.0.1p
+openssl-conf 1.0.1p
+openssl-dev 1.0.1p
+packagegroup-agl-appfw all 1.0
+packagegroup-agl-appfw-agl all 1.0
+packagegroup-agl-appfw-automotive all 1.0
+packagegroup-agl-appfw-connectivity all 1.0
+packagegroup-agl-appfw-graphics all 1.0
+packagegroup-agl-appfw-multimedia all 1.0
+packagegroup-agl-appfw-native all 1.0
+packagegroup-agl-appfw-native-qt5 all 1.0
+packagegroup-agl-appfw-navi-lbs all 1.0
+packagegroup-agl-appfw-security all 1.0
+packagegroup-agl-appfw-speech-services all 1.0
+packagegroup-agl-appfw-web all 1.0
+packagegroup-agl-core all 1.0
+packagegroup-agl-core-automotive all 1.0
+packagegroup-agl-core-connectivity all 1.0
+packagegroup-agl-core-graphics all 1.0
+packagegroup-agl-core-kernel all 1.0
+packagegroup-agl-core-multimedia all 1.0
+packagegroup-agl-core-navi-lbs all 1.0
+packagegroup-agl-core-os-commonlibs all 1.0
+packagegroup-agl-core-security all 1.0
+packagegroup-agl-core-speech-services all 1.0
+packagegroup-agl-demo-platform all 1.0
+packagegroup-agl-ivi all 1.0
+packagegroup-agl-ivi-automotive all 1.0
+packagegroup-agl-ivi-connectivity all 1.0
+packagegroup-agl-ivi-graphics all 1.0
+packagegroup-agl-ivi-kernel all 1.0
+packagegroup-agl-ivi-multimedia all 1.0
+packagegroup-agl-ivi-navi-lbs all 1.0
+packagegroup-agl-ivi-os-commonlibs all 1.0
+packagegroup-agl-ivi-security all 1.0
+packagegroup-agl-ivi-speech-services all 1.0
+packagegroup-core-boot-agl 1.0
+packagegroup-core-ssh-dropbear all 1.0
+packagegroup-ivi-common-core all 1.0
+packagegroup-ivi-common-core-automotive all 1.0
+packagegroup-ivi-common-core-connectivity all 1.0
+packagegroup-ivi-common-core-graphics all 1.0
+packagegroup-ivi-common-core-kernel all 1.0
+packagegroup-ivi-common-core-multimedia all 1.0
+packagegroup-ivi-common-core-navi-lbs all 1.0
+packagegroup-ivi-common-core-os-commonlibs all 1.0
+packagegroup-ivi-common-core-security all 1.0
+packagegroup-ivi-common-core-speech-services all 1.0
+psplash 0.1+git0+afd4e228c6
+psplash-default 0.1+git0+afd4e228c6
+python-misc 2.7.3
+qml-execscript-plugin 1.0
+qtbase 5.5.1+git0+5afc431323
+qtbase-dev 5.5.1+git0+5afc431323
+qtbase-fonts 5.5.1+git0+5afc431323
+qtbase-fonts-pfa 5.5.1+git0+5afc431323
+qtbase-fonts-pfb 5.5.1+git0+5afc431323
+qtbase-fonts-qpf 5.5.1+git0+5afc431323
+qtbase-fonts-ttf-dejavu 5.5.1+git0+5afc431323
+qtbase-fonts-ttf-vera 5.5.1+git0+5afc431323
+qtbase-mkspecs 5.5.1+git0+5afc431323
+qtbase-plugins 5.5.1+git0+5afc431323
+qtbase-staticdev 5.5.1+git0+5afc431323
+qtbase-tools 5.5.1+git0+5afc431323
+qtdeclarative 5.5.1+git0+3e9f61f305
+qtdeclarative-plugins 5.5.1+git0+3e9f61f305
+qtdeclarative-qmlplugins 5.5.1+git0+3e9f61f305
+qtdeclarative-tools 5.5.1+git0+3e9f61f305
+qtgraphicaleffects-qmlplugins 5.5.1+git0+9aa0edc6d1
+qtmultimedia 5.5.1+git0+0cf41ef53f
+qtmultimedia-plugins 5.5.1+git0+0cf41ef53f
+qtmultimedia-qmlplugins 5.5.1+git0+0cf41ef53f
+qtquickcontrols-qmlplugins 5.5.1+git0+61889f06fa
+qtscript 5.5.1+git0+50446e4edb
+qtwayland 5.5.1+git0+9d40864945
+qtwayland-examples 5.5.1+git0+9d40864945
+qtwayland-plugins 5.5.1+git0+9d40864945
+qtwayland-tools 5.5.1+git0+9d40864945
+rtl-sdr 0.5.3
+rygel 0.26.1
+rygel-plugin-lms 0.26.1
+rygel-plugin-media-export 0.26.1
+shadow-securetty 4.2.1
+shadow-securetty-dev 4.2.1
+shared-mime-info 1.3
+systemd-serialgetty 1.0
+v86d 0.1.10
+wayland-ivi-extension 1.5.0
+weston 1.5.0
+weston-examples 1.5.0
