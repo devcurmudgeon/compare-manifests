@@ -4,8 +4,8 @@ alsa-conf 1.0.28
 alsa-conf-base 1.0.28
 alsa-lib 1.0.28
 alsa-lib-dev 1.0.28
-alsa-state koelsch 0.2.0
-alsa-states koelsch 0.2.0
+alsa-state 0.2.0
+alsa-states 0.2.0
 alsa-utils 1.0.28
 alsa-utils-aconnect 1.0.28
 alsa-utils-alsactl 1.0.28
@@ -25,8 +25,8 @@ audiomanager 6.1
 automotive-message-broker 0.12+git0+ac3fe53327
 avahi-daemon 0.6.31
 avahi-dev 0.6.31
-base-files koelsch 3.0.14
-base-files-dev koelsch 3.0.14
+base-files 3.0.14
+base-files-dev 3.0.14
 base-passwd 3.5.29
 base-passwd-dev 3.5.29
 bash 4.3
@@ -83,10 +83,10 @@ genivi-browser-test-hmi-precompiled 1.0
 genivi-demo-platform-hmi 0.4
 gettext 0.18.3.2
 gettext-dev 0.18.3.2
-gles-kernel-module koelsch 1.0
-gles-kernel-module-dev koelsch 1.0
-gles-user-module koelsch 1.0
-gles-user-module-dev koelsch 1.0
+gles-kernel-module 1.0
+gles-kernel-module-dev 1.0
+gles-user-module 1.0
+gles-user-module-dev 1.0
 glib-networking 2.38.0
 gps-utils 3.10
 gpsd 3.10
@@ -115,20 +115,20 @@ icu-dev 53.1
 iptables 1.4.21
 json-c 0.11
 json-c-dev 0.11
-kernel-3.10.31-ltsi koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-image-3.10.31-ltsi koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-module-ansi-cprng koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-module-blocklayoutdriver koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-module-configfs koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-module-g-ether koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-module-lcd koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-module-libcomposite koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-module-nfs-layout-nfsv41-files koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-module-rng-core koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-module-tcp-bic koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-module-tcp-htcp koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-module-tcp-westwood koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
-kernel-modules koelsch 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-3.10.31-ltsi 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-image-3.10.31-ltsi 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-module-ansi-cprng 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-module-blocklayoutdriver 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-module-configfs 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-module-g-ether 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-module-lcd 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-module-libcomposite 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-module-nfs-layout-nfsv41-files 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-module-rng-core 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-module-tcp-bic 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-module-tcp-htcp 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-module-tcp-westwood 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
+kernel-modules 3.10+gitb8ca8c397343f4233f9f68fc3a5bf8e1c9b88251
 keyutils 1.5.8
 kmod 18+git0+ae58de0fcb
 kmod-dev 18+git0+ae58de0fcb
@@ -378,7 +378,7 @@ openssl-dev 1.0.1j
 os-release all 1.0
 packagegroup-abstract-component-p1 all 1.0
 packagegroup-abstract-component-p2 all 1.0
-packagegroup-core-boot-genivi koelsch 1.0
+packagegroup-core-boot-genivi 1.0
 packagegroup-core-ssh-openssh all 1.0
 packagegroup-gdp-am-demo all 1.0
 packagegroup-gdp-browser all 1.0
@@ -522,8 +522,8 @@ sbc 1.2
 sbc-dev 1.2
 shadow 4.2.1
 shadow-dev 4.2.1
-shadow-securetty koelsch 4.2.1
-shadow-securetty-dev koelsch 4.2.1
+shadow-securetty 4.2.1
+shadow-securetty-dev 4.2.1
 smartpm 1.4.1
 speex 1.2rc1
 speex-dev 1.2rc1
@@ -531,7 +531,7 @@ sqlite3 3.8.6.0
 systemd 216+git0+5d0ae62c66
 systemd-compat-units all 1.0
 systemd-dev 216+git0+5d0ae62c66
-systemd-serialgetty koelsch 1.0
+systemd-serialgetty 1.0
 udev 216+git0+5d0ae62c66
 udev-hwdb 216+git0+5d0ae62c66
 update-alternatives-opkg 0.1.8+git0+eae0d8fa44
@@ -556,8 +556,8 @@ volatile-binds-dev all 1.0
 wayland 1.5.0
 wayland-dev 1.5.0
 wayland-ivi-extension 1.3.0
-weston koelsch 1.5.0
-weston-examples koelsch 1.5.0
+weston 1.5.0
+weston-examples 1.5.0
 wpa-supplicant 2.2
 wpa-supplicant-cli 2.2
 wpa-supplicant-passphrase 2.2
